@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Curiousminded06&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
-
 # I'm Sahil Dale
 
 AI & Data Science Student at DAVV | AI Engineer | Backend Developer | LLM & Scalable AI Systems Enthusiast
